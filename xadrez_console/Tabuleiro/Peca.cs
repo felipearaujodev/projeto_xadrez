@@ -11,10 +11,10 @@ namespace tabuleiro
         public int _qtdMovimento { get; protected set; }
         public Tabuleiro _tabuleiro { get; protected set; }
 
-        public Peca(Posicao posicao, Tabuleiro tabuleiro, Cor cor) {
-            posicao = _posicao;
-            tabuleiro = _tabuleiro;
-            cor = _cor;
+        public Peca(Tabuleiro tabuleiro, Cor cor) {
+            _posicao = null;
+            _tabuleiro = tabuleiro;
+            _cor = cor;
             _qtdMovimento = 0;
         }
     }
