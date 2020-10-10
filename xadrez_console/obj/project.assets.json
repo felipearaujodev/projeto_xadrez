@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\medic\\.nuget\\packages\\": {}
+    "C:\\Users\\Aline\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjetoUdemy\\xadrez_console\\xadrez_console\\xadrez_console\\xadrez_console.csproj",
+      "projectUniqueName": "C:\\ProjetosC#\\Tabuleiro Xadrez\\projeto_xadrez\\xadrez_console\\xadrez_console.csproj",
       "projectName": "xadrez_console",
-      "projectPath": "D:\\ProjetoUdemy\\xadrez_console\\xadrez_console\\xadrez_console\\xadrez_console.csproj",
-      "packagesPath": "C:\\Users\\medic\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjetoUdemy\\xadrez_console\\xadrez_console\\xadrez_console\\obj\\",
+      "projectPath": "C:\\ProjetosC#\\Tabuleiro Xadrez\\projeto_xadrez\\xadrez_console\\xadrez_console.csproj",
+      "packagesPath": "C:\\Users\\Aline\\.nuget\\packages\\",
+      "outputPath": "C:\\ProjetosC#\\Tabuleiro Xadrez\\projeto_xadrez\\xadrez_console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\medic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aline\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
